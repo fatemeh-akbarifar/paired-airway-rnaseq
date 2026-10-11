@@ -1,0 +1,11 @@
+name: airway-analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.5
+  - bioconductor-airway=1.30
+  - bioconductor-deseq2=1.50
+  - bioconductor-org.hs.eg.db
+  - r-ggplot2
+  - r-jsonlite

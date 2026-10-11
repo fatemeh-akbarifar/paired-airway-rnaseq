@@ -1,0 +1,5 @@
+Dataset: airway object, GSE52778
+Source: https://bioconductor.org/packages/airway/
+Package licence: LGPL; upstream counts obtained through package, not redistributed
+Model: ~ cell + dex; contrast trt - untrt
+analysis.R MD5: 78eeca50b2a4d66cf05e063a7626ce74

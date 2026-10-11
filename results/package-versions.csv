@@ -1,0 +1,8 @@
+"package","version"
+"airway","1.30.0"
+"DESeq2","1.50.2"
+"SummarizedExperiment","1.40.0"
+"ggplot2","4.0.3"
+"org.Hs.eg.db","3.22.0"
+"AnnotationDbi","1.72.0"
+"jsonlite","2.0.0"

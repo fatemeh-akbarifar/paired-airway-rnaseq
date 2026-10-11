@@ -1,0 +1,19 @@
+{
+  "raw_genes": 63677,
+  "retained_genes": 16139,
+  "available_pvalues": 16139,
+  "available_adjusted_pvalues": 15826,
+  "significant_genes": 4081,
+  "significant_and_twofold": 951,
+  "missing_pvalues": 0,
+  "missing_adjusted_pvalues": 313,
+  "cell_lines": 4,
+  "samples": 8,
+  "paired_sign_check": true,
+  "selected_genes": [
+    "CRISPLD2",
+    "SPARCL1",
+    "VCAM1"
+  ],
+  "filter_threshold": 10.3192
+}
