@@ -1,4 +1,4 @@
-# Four pairs, thousands of responses
+# Four Pairs, Thousands of Responses
 
 *A paired RNA-seq reanalysis of dexamethasone-treated airway smooth-muscle cells.*
 
